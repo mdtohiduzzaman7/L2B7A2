@@ -4,7 +4,7 @@ A RESTful API for managing software bugs and feature requests. The system provid
 
 ## 🌐 Live URL
 
-- **Live API:** [https://your-live-url.com](https://l2-b7-a2-dusky.vercel.app/)
+- **Live API:** (https://l2-b7-a2-dusky.vercel.app/)
 - **GitHub Repository:** https://github.com/mdtohiduzzaman7/L2B7A2
 
 ---
